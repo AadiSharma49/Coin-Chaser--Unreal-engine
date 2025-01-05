@@ -32,6 +32,8 @@ This game is an enhanced version of an earlier project built on the Godot Engine
 ## **🔗 Links**
 - [Unreal Engine 5](https://www.unrealengine.com/)  
 - [Gorka Games YouTube Channel](https://www.youtube.com/@GorkaGames)  
+- [GitHub Repository](https://github.com/AadiSharma49/Coin-Chaser--Unreal-engine)  
+- [Download the Game](https://github.com/AadiSharma49/Coin-Chaser--Unreal-engine/releases/download/Game/Coin.ProjectGame.exe)  
 
 ---
 
